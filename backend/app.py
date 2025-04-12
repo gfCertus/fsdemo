@@ -1,7 +1,9 @@
 from flask import Flask, jsonify, request
+from flask_cors import CORS #Importamos la libreria
 import json
 
 app = Flask(__name__)
+CORS(app) #Habilitamos CORS para la aplicacion.
 
 def cargar_usuarios():
     try:
