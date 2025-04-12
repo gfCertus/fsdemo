@@ -1,0 +1,30 @@
+{
+    "miUsuario": {
+      "nombre": "Gustavo",
+      "apellido": "Francia",
+      "status": 1,
+      "rol": "admin",
+      "password": "miPassword"
+    },
+    "otroUsuario": {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "status": 1,
+      "rol": "usuario",
+      "password": "otraPassword"
+    },
+      "testUser1": {
+      "nombre": "Pedro",
+      "apellido": "Gomez",
+      "status": 1,
+      "rol": "usuario",
+      "password": "testPassword1"
+    },
+      "testUser2": {
+      "nombre": "Maria",
+      "apellido": "Lopez",
+      "status": 1,
+      "rol": "usuario",
+      "password": "testPassword2"
+    }
+  }
